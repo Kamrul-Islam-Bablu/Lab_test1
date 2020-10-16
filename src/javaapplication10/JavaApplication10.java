@@ -6,14 +6,11 @@ public class JavaApplication10 {
         Scanner scan = new Scanner(System.in);
         int x;
         x=scan.nextInt();
-        if(x>0){
-            System.out.println("Positive");
-        }
-        else if(x<0){
-            System.out.println("Negative");
-        }
-        else System.out.println("Zero");
-            
+      System.out.println("    1\n");
+      System.out.println("   1    1\n");
+      System.out.println("  1   2    1\n");
+      System.out.println("1   3    3    1\n");
+      
 }
 }
 
